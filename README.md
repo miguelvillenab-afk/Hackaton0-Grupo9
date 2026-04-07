@@ -23,7 +23,11 @@ Los equipos son de **3 integrantes fijos**. Cada uno tendrá un rol claro:
 - Otros que lideren 🧭
 - Y otros que ejecuten rápido ⚡
 
+<<<<<<< HEAD
 Coordínense bien antes de empezar a pushear cambios. El repositorio incluye **GitHub Actions** que corren automáticamente: una valida el HTML y los enlaces en cada PR, y otra despliega la página en GitHub Pages en cada push a `main`.
+=======
+Esta vez el proyecto tiene **más conflictos intencionales** que la vez anterior. Coordínense bien antes de empezar a pushear cambios.
+>>>>>>> clean-css
 
 ---
 
